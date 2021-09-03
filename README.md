@@ -1,6 +1,6 @@
 This archive contains code and data related to the article "Optimal spatial monitoring of populations described by reaction-diffusion models" by N. Parisey, M. Leclerc and K. Adamczyk-ChauvatK.
 
-We recommend you to explore this code using the associated rstudio project ('LANDOE.Rproj') notably because relative paths are handled by the package 'here' and the project's structure.
+We recommend you to explore this code using the associated rstudio project ('LANDoE.Rproj') notably because relative paths are handled by the package 'here' and the project's structure.
 
 The archive is structured as follow :
 
