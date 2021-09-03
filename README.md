@@ -4,7 +4,7 @@ We recommend you to explore this code using the associated rstudio project ('LAN
 
 The archive is structured as follow :
 
-(0) Files 'LICENCE' refer, respectively, to the GNU GPL Licence under which these scripts are distributed and this present guide ;
+(0) Files 'LICENCE' adn README.md refer, respectively, to the GNU GPL Licence under which these scripts are distributed and this present guide ;
 
 (i) Repository 'inputs/' contains geomatic maps ('inputs/gis/') used to describe spatial domains, initial conditions and traps positions for use cases and serialized objets ('inputs/others/') ;
 
