@@ -1,4 +1,4 @@
-This archive contains code and data related to the article "Improving spatial monitoring of populations living in heterogeneous environments" by N. Parisey, M. Leclerc and K. Adamczyk-ChauvatK.
+This archive contains code and data related to the article "Improving spatial monitoring of populations living in heterogeneous environments" by N. Parisey, M. Leclerc and K. Adamczyk-Chauvat.
 
 We recommend you to explore this code using the associated rstudio project ('LANDoE.Rproj') notably because relative paths are handled by the package 'here' and the project's structure.
 
